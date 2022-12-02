@@ -1,6 +1,6 @@
-from loader import MarketState_bot
-
+from loader import IrregularVerbs_bot
+import handlers
 
 if __name__ == '__main__':
-    MarketState_bot.infinity_polling()
+    IrregularVerbs_bot.infinity_polling()
 

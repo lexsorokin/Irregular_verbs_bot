@@ -35,46 +35,118 @@ irregular_verbs = {
         'forms': ['bet', 'bet'],
         'translation': 'заключать пари'
     },
-    'bind': ['bound', 'bound'],
-    'arise': {
-        'forms': ['arise', 'arise'],
-        'translation': 'подниматься'
+    'bind': {
+        'forms': ['bound', 'bound'],
+        'translation': 'связывать'
     },
-    'bite': ['bit', 'bitten'],
-    'arise': {
-        'forms': ['arise', 'arise'],
-        'translation': 'подниматься'
+    'bite': {
+        'forms': ['bit', 'bitten'],
+        'translation': 'кусать'
     },
-    'bleed': ['bled', 'bled'],
-    'arise': {
-        'forms': ['arise', 'arise'],
-        'translation': 'подниматься'
+    'bleed': {
+        'forms': ['bled', 'bled'],
+        'translation': 'кровоточить'
     },
-    'blow': ['blew', 'blown'],
-    'break': ['broke', 'broken'],
-    'breed': ['bred', 'bred'],
-    'bring': ['brought', 'brought'],
-    'build': ['built', 'built'],
-    'buy': ['bought', 'bought'],
-    'catch': ['caught', 'caught'],
-    'choose': ['chose', 'chosen'],
-    'cling': ['clung', 'clung'],
-    'come': ['came', 'come'],
-    'cost': ['cost', 'cost'],
-    'cut': ['cut', 'cut'],
-    'deal': ['dealt', 'dealt'],
-    'dig': ['dug', 'dug'],
-    'do': ['did', 'done'],
-    'draw': ['drew', 'drawn'],
-    'drink': ['drank', 'drunk'],
-    'drive': ['drove', 'driven'],
-    'eat': ['ate', 'eaten'],
-    'fall': ['fell', 'fallen'],
-    'feed': ['fed', 'fed'],
-    'feel': ['felt', 'felt'],
-    'fight': ['fought', 'fought'],
-    'find': ['found', 'found'],
-    'flee': ['fled', 'fled'],
+    'blow': {
+        'forms': ['blew', 'blown'],
+        'translation': 'дуть'
+    },
+    'break': {
+        'forms': ['broke', 'broken'],
+        'translation': 'ломать'
+    },
+    'breed': {
+        'forms': ['bred', 'bred'],
+        'translation': 'разводить животных'
+    },
+    'bring': {
+        'forms': ['brought', 'brought'],
+        'translation': 'приносить'
+    },
+    'build': {
+        'forms': ['built', 'built'],
+        'translation': 'строить'
+    },
+    'buy': {
+        'forms': ['bought', 'bought'],
+        'translation': 'покупать'
+    },
+    'catch': {
+        'forms': ['caught', 'caught'],
+        'translation': 'ловить'
+    },
+    'choose': {
+        'forms': ['chose', 'chosen'],
+        'translation': 'выбирать'
+    },
+    'cling': {
+        'forms': ['clung', 'clung'],
+        'translation': 'цепляться'
+    },
+    'come': {
+        'forms': ['came', 'come'],
+        'translation': 'приходить'
+    },
+    'cost': {
+        'forms': ['cost', 'cost'],
+        'translation': 'стоить'
+    },
+    'cut': {
+        'forms': ['cut', 'cut'],
+        'translation': 'резать'
+    },
+    'deal': {
+        'forms': ['dealt', 'dealt'],
+        'translation': 'вести дела'
+    },
+    'dig': {
+        'forms': ['dug', 'dug'],
+        'translation': 'копать'
+    },
+    'do': {
+        'forms': ['did', 'done'],
+        'translation': 'делать'
+    },
+    'draw': {
+        'forms': ['drew', 'drawn'],
+        'translation': 'рисовать, тянуть'
+    },
+    'drink': {
+        'forms': ['drank', 'drunk'],
+        'translation': 'пить'
+    },
+    'drive': {
+        'forms': ['drove', 'driven'],
+        'translation': 'водить автомобиль'
+    },
+    'eat': {
+        'forms': ['ate', 'eaten'],
+        'translation': 'кушать'
+    },
+    'fall': {
+        'forms': ['fell', 'fallen'],
+        'translation': 'падать'
+    },
+    'feed': {
+        'forms': ['fed', 'fed'],
+        'translation': 'кормить'
+    },
+    'feel': {
+        'forms': ['felt', 'felt'],
+        'translation': 'чувствовать'
+    },
+    'fight': {
+        'forms': ['fought', 'fought'],
+        'translation': 'бороться'
+    },
+    'find': {
+        'forms': ['found', 'found'],
+        'translation': 'находить'
+    },
+    'flee': {
+        'forms': ['fled', 'fled'],
+        'translation': 'сбегать'
+    },
     'fly': {
         'forms': ['flew', 'flown'],
         'translation': 'летать'
@@ -155,253 +227,252 @@ irregular_verbs = {
         'forms': ['learnt (learned)', 'learnt (learned)'],
         'translation': 'учиться, узнавать'
     },
-'leave': {
+    'leave': {
         'forms': ['left', 'left'],
         'translation': 'покидать, оставлять'
     },
-'lend': {
+    'lend': {
         'forms': ['lent', 'lent'],
         'translation': 'давать взаймы'
     },
-'let': {
+    'let': {
         'forms': ['let', 'let'],
         'translation': 'позволять'
     },
-'lie': {
+    'lie': {
         'forms': ['lay', 'lain'],
         'translation': 'лежать'
     },
-'light': {
+    'light': {
         'forms': ['lit', 'lit'],
         'translation': 'зажигать, освещать'
     },
-'lose': {
+    'lose': {
         'forms': ['lost', 'lost'],
         'translation': 'терять'
     },
-'make': {
+    'make': {
         'forms': ['made', 'made'],
         'translation': 'делать, мастерить'
     },
-'mean': {
+    'mean': {
         'forms': ['meant', 'meant'],
         'translation': 'значить'
     },
-'meet': {
+    'meet': {
         'forms': ['met', 'met'],
         'translation': 'встречать, знакомиться'
     },
-'pay': {
+    'pay': {
         'forms': ['paid', 'paid'],
         'translation': 'платить'
     },
-'put': {
+    'put': {
         'forms': ['put', 'put'],
         'translation': 'класть, ставить'
     },
-'read': {
+    'read': {
         'forms': ['read', 'read'],
         'translation': 'читать'
     },
-'ride': {
+    'ride': {
         'forms': ['rode', 'ridden'],
         'translation': 'ездить верхом'
     },
-'ring': {
+    'ring': {
         'forms': ['rang', 'rung'],
         'translation': 'звонить'
     },
-'rise': {
+    'rise': {
         'forms': ['rose', 'risen'],
         'translation': 'возрастать, подниматься'
     },
-'run': {
+    'run': {
         'forms': ['ran', 'run'],
         'translation': 'бежать'
     },
-'say': {
+    'say': {
         'forms': ['said', 'said'],
         'translation': 'сказать'
     },
-'see': {
+    'see': {
         'forms': ['saw', 'seen'],
         'translation': 'видеть'
     },
-'seek': {
+    'seek': {
         'forms': ['sought', 'sought'],
         'translation': 'искать'
     },
-'sell': {
+    'sell': {
         'forms': ['sold', 'sold'],
         'translation': 'продавать'
     },
-'send': {
+    'send': {
         'forms': ['sent', 'sent'],
         'translation': 'посылать'
     },
-'set': {
+    'set': {
         'forms': ['set', 'set'],
         'translation': 'устанавливать'
     },
-'shake': {
+    'shake': {
         'forms': ['shook', 'shaken'],
         'translation': 'трясти'
     },
-'shine': {
+    'shine': {
         'forms': ['shone', 'shone'],
         'translation': 'светить, сиять'
     },
-'shoot': {
+    'shoot': {
         'forms': ['shot', 'shot'],
         'translation': 'стрелять'
     },
-'show': {
+    'show': {
         'forms': ['showed', 'shown'],
         'translation': 'показывать'
     },
-'shrink': {
+    'shrink': {
         'forms': ['shrank', 'shrunk'],
         'translation': 'сжиматься'
     },
-'shut': {
+    'shut': {
         'forms': ['shut', 'shut'],
         'translation': 'закрывать, затворять'
     },
-'sing': {
+    'sing': {
         'forms': ['sang', 'sung'],
         'translation': 'петь'
     },
-'sit': {
+    'sit': {
         'forms': ['sat', 'sat'],
         'translation': 'сидеть'
     },
-'sleep': {
+    'sleep': {
         'forms': ['slept', 'slept'],
         'translation': 'спать'
     },
-'slide': {
+    'slide': {
         'forms': ['slid', 'slid'],
         'translation': 'скользить'
     },
-'smell': {
+    'smell': {
         'forms': ['smelt', 'smelt'],
         'translation': 'пахнуть, нюхать'
     },
-'speak': {
+    'speak': {
         'forms': ['spoke', 'spoken'],
         'translation': 'говорить'
     },
-'spell': {
+    'spell': {
         'forms': ['spelt (spelled)', 'spelt (spelled)'],
         'translation': 'произносить или писать по буквам'
     },
-'spend': {
+    'spend': {
         'forms': ['spent', 'spent'],
         'translation': 'тратить, проводить время'
     },
-'spill': {
+    'spill': {
         'forms': [' spilt (spilled)', ' spilt (spilled)'],
         'translation': 'разлить'
     },
-'spin': {
+    'spin': {
         'forms': ['spun', 'spun'],
         'translation': 'крутить'
     },
-'split': {
+    'split': {
         'forms': ['split', 'split'],
         'translation': 'разделять, раскалывать'
     },
-'spoil': {
+    'spoil': {
         'forms': ['spoilt (spoiled)', 'spoilt (spoiled)'],
         'translation': 'портить'
     },
-'spread': {
+    'spread': {
         'forms': ['spread', 'spread'],
         'translation': 'разворачивать, распространять'
     },
-'stand': {
+    'stand': {
         'forms': ['stood', 'stood'],
         'translation': 'стоять'
     },
-'steal': {
+    'steal': {
         'forms': ['stole', 'stolen'],
         'translation': 'воровать'
     },
-'sting': {
+    'sting': {
         'forms': ['stung', 'stung'],
         'translation': 'жалить'
     },
-'stink': {
+    'stink': {
         'forms': ['stank', 'stunk'],
         'translation': 'вонять'
     },
-'strike': {
+    'strike': {
         'forms': ['struck', 'struck'],
         'translation': 'бастовать, ударять'
     },
-'swear': {
+    'swear': {
         'forms': ['swore', 'sworn'],
         'translation': 'клясться, ругаться'
     },
-'sweep': {
+    'sweep': {
         'forms': ['swept', 'swept'],
         'translation': 'подметать'
     },
-'swell': {
+    'swell': {
         'forms': ['swelled', 'swollen (swelled)'],
         'translation': 'опухать'
     },
-'swim': {
+    'swim': {
         'forms': ['swam', 'swum'],
         'translation': 'плавать'
     },
-'take': {
+    'take': {
         'forms': ['took', 'taken'],
         'translation': 'брать'
     },
-'teach': {
+    'teach': {
         'forms': ['taught', 'taught'],
         'translation': 'обучать'
     },
-'tear': {
+    'tear': {
         'forms': ['tore', 'torn'],
         'translation': 'рвать'
     },
-'tell': {
+    'tell': {
         'forms': ['told', 'told'],
         'translation': 'рассказывать'
     },
-'think': {
+    'think': {
         'forms': ['thought', 'thought'],
         'translation': 'думать'
     },
-'throw': {
+    'throw': {
         'forms': ['threw', 'thrown'],
         'translation': 'бросать'
     },
-'understand': {
+    'understand': {
         'forms': ['understood', 'understood'],
         'translation': 'понимать'
     },
-'wake': {
+    'wake': {
         'forms': ['woke', 'woken'],
         'translation': 'будить'
     },
-'wear': {
+    'wear': {
         'forms': ['wore', 'worn'],
         'translation': 'носить (одежду)'
     },
-'win': {
+    'win': {
         'forms': ['won', 'won'],
         'translation': 'побеждать'
     },
-'wind': {
+    'wind': {
         'forms': ['wound', 'wound'],
         'translation': 'обматывать, изгибаться'
     },
-'write': {
+    'write': {
         'forms': ['wrote', 'written'],
         'translation': 'писать'
     },
-
 }
